@@ -15,5 +15,3 @@ Program ini memiliki menu utama dengan beberapa opsi:
 **4. Hapus Data Karyawan**: Memungkinkan Anda untuk menghapus data karyawan berdasarkan ID Karyawan atau menghapus seluruh data karyawan.
 
 **5. Exit**: Keluar dari program.
-
-Anda dapat memilih menu dengan memasukkan nomor menu yang sesuai.
